@@ -1,2 +1,5 @@
 # ACT_SD1
-Im gonna put here all my codes for the said subject.
+I'm gonna put here all my codes for the said subject.
+
+FORMULA:
+(Project Title)_(what type of language).(the needed format)
