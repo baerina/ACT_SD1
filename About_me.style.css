@@ -1,0 +1,96 @@
+/* GENERAL PAGE */
+
+body {
+    background-color: #ADD8E6;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+
+/* MAIN HEADINGS */
+
+.greeting {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8em;
+    margin-bottom: 0;
+}
+
+.name {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 7em;
+    margin-top: 0;
+}
+
+
+/* HORIZONTAL LINE */
+
+hr {
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    size: 30px;
+}
+
+
+/* INTRODUCTION */
+
+.introduction {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: fit-content;
+    text-align: center;
+}
+
+
+/* SECTION HEADINGS */
+
+h2 {
+    margin-top: 60px;
+}
+
+.things-title {
+    text-align: center;
+}
+
+
+/* PERSONAL INFORMATION */
+
+.personal-info {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    max-width: 1000px;
+    margin: 50px auto;
+}
+
+.info-box {
+    width: 45%;
+}
+
+.info-value {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.info-label {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+
+/* LISTS */
+
+ul {
+    list-style-type: circle;
+    line-height: 2;
+    font-size: 17px;
+}
+
+
+/* SUBHEADINGS */
+
+h4 {
+    font-size: 20px;
+    margin-top: 40px;
+}
