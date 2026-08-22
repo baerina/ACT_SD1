@@ -1,4 +1,4 @@
-/* GENERAL PAGE */
+/* General Body */
 
 body {
     background-color: #ADD8E6;
@@ -7,11 +7,11 @@ body {
 }
 
 
-/* MAIN HEADINGS */
+/* Heading before the <hr /> */
 
 .greeting {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 8em;
+    font-size: 10em;
     margin-bottom: 0;
 }
 
@@ -22,17 +22,17 @@ body {
 }
 
 
-/* HORIZONTAL LINE */
+/* Horizontal Line */
 
 hr {
     color: black;
     margin-top: 50px;
     margin-bottom: 50px;
-    size: 30px;
+    size: 50px;
 }
 
 
-/* INTRODUCTION */
+/* Introduction; Between the horizontal */
 
 .introduction {
     font-size: 18px;
@@ -42,9 +42,9 @@ hr {
 }
 
 
-/* SECTION HEADINGS */
+/* The personal information */
 
-h2 {
+h1 {
     margin-top: 60px;
 }
 
@@ -79,7 +79,7 @@ h2 {
 }
 
 
-/* LISTS */
+/* The list part */
 
 ul {
     list-style-type: circle;
@@ -88,7 +88,7 @@ ul {
 }
 
 
-/* SUBHEADINGS */
+/* Subheading sa personal information */
 
 h4 {
     font-size: 20px;
