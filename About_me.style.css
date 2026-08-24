@@ -78,11 +78,15 @@ h1 {
     margin-top: 0;
 }
 
-
-/* The list part */
+/* The listing part */
 
 ul {
     list-style-type: circle;
+    line-height: 2;
+    font-size: 17px;
+}
+
+ol {
     line-height: 2;
     font-size: 17px;
 }
