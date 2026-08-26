@@ -1,8 +1,9 @@
 /* General Body */
 
 body {
-    background-color: #ADD8E6;
+    background-color: #DEEBF7;
     font-family: Arial, sans-serif;
+    color: black;
     margin: 50px;
 }
 
@@ -53,7 +54,7 @@ h1 {
 }
 
 
-/* PERSONAL INFORMATION */
+/* PERSONAL INFORMATIONS */
 
 .personal-info {
     display: flex;
@@ -97,4 +98,23 @@ ol {
 h4 {
     font-size: 20px;
     margin-top: 40px;
+}
+
+/* Social Part */
+.contact{
+    text-align: center;
+}
+
+.socials {
+
+}
+
+.social-links {
+
+}
+
+/* Painting Parts */
+
+.paintings {
+    text-align: center;
 }
